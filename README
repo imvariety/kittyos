@@ -1,5 +1,8 @@
 Kitty ix86 Operating system
 ******************************
+NEWS:-
+KittyOS will soon be x86_64 aka amd64 and not ix86! It also needs UEFI, specifically UEFI GOP. This release will release soon, but its currently in an harsh stage of development. The ix86 version will still be there, but dont expect a Desktop or new commands. We're also building ViX (Vastly Improved X), still only for UEFI.
+******************************
 Imagine someone so unemployeed he made an entire,
 non Linux-based operating system for his cat
 hehehhehe >:]
